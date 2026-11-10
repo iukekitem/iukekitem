@@ -26,8 +26,6 @@ I’m a U.S. Air Force engineer and currently work as a **Technical Compliance E
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iukekitem&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="João's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iukekitem&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iukekitem&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iukekitem&layout=compact&theme=github_dark&hide_border=true)
