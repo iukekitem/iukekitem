@@ -4,14 +4,22 @@ I’m a U.S. Air Force engineer and currently work as a **Technical Compliance E
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Core Languages
 
 [![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+### 📊 Data & Compliance Stack
+
 [![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://www.microsoft.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
+### ☁️ Infrastructure & Deployment
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 
 ---
 
@@ -24,8 +32,29 @@ I’m a U.S. Air Force engineer and currently work as a **Technical Compliance E
 
 ---
 
-### 📊 GitHub Stats
+### 🔐 Credentials & Clearances
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iukekitem&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+* **Security Clearance:** Active DoD Secret
+* **Certifications:** CompTIA Security+
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iukekitem&layout=compact&theme=github_dark&hide_border=true)
+---
+
+### 🌱 Currently Exploring
+
+* Deepening systems programming with advanced Java enterprise architecture and multithreaded design patterns.
+* Building automated compliance and regulatory tracking pipelines for iGaming and AI governance.
+
+---
+
+### 🛡️ Philosophy
+
+> 🧠 "Turning coffee and chaotic edge cases into clean code, rigorous compliance, and systems that actually survive production." ☕
+
+---
+
+### 🌐 Connect With Me
+
+Let's collaborate and build secure, scalable systems together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor13/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sr.jk.kleber@gmail.com)
